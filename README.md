@@ -11,11 +11,11 @@ A **third person role playing game**, used to learn C# and Unity.
 * ~Photoshop~
 * Visual Studio
    * Monodevelop *(if no VS)*
-* FL Studio
+* FL Studio *currently considering*
 
 ## TODO List
 - [x] Create 3D Objects to be used in Unity
-- [ ] Rig the 3D character for animation
-- [ ] Learn and write the C# scripts
+- [x] Rig the 3D character for animation
+- [x] Learn and write the C# scripts
 - [ ] Provide GUI for functional items
 - [ ] Create a BGM
